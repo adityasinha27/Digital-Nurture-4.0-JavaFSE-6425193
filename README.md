@@ -1,4 +1,4 @@
-# Digital-Nurture-4.0-JavaFS
+# Digital-Nurture-4.0-JavaFS(Cognizant)
 
 
 This repository contains my weekly hands-on work and learning progress from the **Digital Nurture 4.0 Java Full Stack Engineer** program. Each week focuses on core backend, frontend, and software engineering concepts with practical exercises to reinforce learning.
